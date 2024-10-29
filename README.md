@@ -4,6 +4,12 @@ Nim :  <p>
 Kelas :  <p>
 Mata kuliah :  <p>
 ## menentukan bilangan terbesar dari N bilangan yang di inputkan
-![gambar 1](foto1)
-![gambar 2](foto2)
-![gambar 3](foto3)
+### Flowchart
+![gambar 1](foto1.jpeg)
+
+### program python
+![gambar 2](foto2.jpeg)
+
+### Hasil eksekusi program
+![gambar 3](foto3.jpeg)
+
