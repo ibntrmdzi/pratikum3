@@ -1,6 +1,6 @@
 # pratikum3
-Nama :
-Nim :
-Kelas :
-Mata kuliah :
-## program pemesana tiket bioskop
+Nama :  <p>
+Nim :  <p>
+Kelas :  <p>
+Mata kuliah :  <p>
+## menentukan bilangan terbesar dari N bilangan yang di inputkan
